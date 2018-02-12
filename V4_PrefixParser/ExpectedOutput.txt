@@ -1,0 +1,160 @@
+New test
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 1708
+Calling parser()
+Parsed expression: 60078
+Calling parser()
+Caught DivideByZeroException
+Calling parser()
+Parsed expression: 1
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 408606
+Calling parser()
+Parsed expression: 468586
+Calling parser()
+Parsed expression: -1246694036
+Calling parser()
+Parsed expression: 600144
+Calling parser()
+Parsed expression: -136
+Calling parser()
+Parsed expression: 2977
+Calling parser()
+Parsed expression: 701
+Calling parser()
+Parsed expression: 616896
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: -35737885
+Calling parser()
+Parsed expression: 2
+Calling parser()
+Parsed expression: 1
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 2
+Calling parser()
+Parsed expression: 3
+Calling parser()
+Parsed expression: 49928
+Calling parser()
+Parsed expression: 4
+Calling parser()
+Parsed expression: -1414586265
+Calling parser()
+Parsed expression: -1
+Calling parser()
+Parsed expression: 572995
+Calling parser()
+Parsed expression: 278697
+Calling parser()
+Parsed expression: 1
+Calling parser()
+Parsed expression: 501
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Caught DivideByZeroException
+Calling parser()
+Parsed expression: 1086
+Calling parser()
+Parsed expression: -1
+Calling parser()
+Caught DivideByZeroException
+INVALID INPUT: +
+INVALID INPUT: -
+INVALID INPUT: *
+INVALID INPUT: +
+INVALID INPUT: 709
+INVALID INPUT: 540
+INVALID INPUT: -
+INVALID INPUT: 482
+INVALID INPUT: 596
+INVALID INPUT: 1086
+INVALID INPUT: +
+INVALID INPUT: 751
+INVALID INPUT: 386
+Calling parser()
+Parsed expression: -747
+Calling parser()
+Caught DivideByZeroException
+Calling parser()
+Parsed expression: 467480
+Calling parser()
+Parsed expression: 1
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 227895
+Calling parser()
+Parsed expression: -1401906088
+Calling parser()
+Parsed expression: -1842167808
+Calling parser()
+Parsed expression: 427
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 460746
+Calling parser()
+Parsed expression: -10
+Calling parser()
+Parsed expression: -432
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 270971
+Calling parser()
+Parsed expression: -456044
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: -506058
+Calling parser()
+Parsed expression: -1
+Calling parser()
+Parsed expression: 821488125
+Calling parser()
+Parsed expression: 467851
+Calling parser()
+Parsed expression: -843
+Calling parser()
+Caught DivideByZeroException
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 1
+Calling parser()
+Parsed expression: 1266
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 499839
+Calling parser()
+Parsed expression: 1
+Calling parser()
+Caught DivideByZeroException
+Calling parser()
+Parsed expression: 112464
+Calling parser()
+Parsed expression: -2005647341
+Calling parser()
+Parsed expression: 501654
+Calling parser()
+Parsed expression: 0
+Calling parser()
+Parsed expression: 117300
+Calling parser()
+Parsed expression: 737
