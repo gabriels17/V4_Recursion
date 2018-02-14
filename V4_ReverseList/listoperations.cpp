@@ -11,12 +11,18 @@ ListOperations::~ListOperations()
 }
 
 ListNode* ListOperations::reverseList(ListNode *head) {
-    if(head == NULL){
-        return NULL;
+    if (head->next == NULL)
+    {
+        return head;
     }
-    reverseList(head->next);
-    cout << head->data << " ";
-    return head;
+
+    else
+    {
+        ListNode* t = reverseList(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return t;
+    }
 }
 
 void ListOperations::printList(ostream& out, ListNode *head) {

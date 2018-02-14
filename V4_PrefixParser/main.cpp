@@ -4,7 +4,7 @@
 int main(int argc, const char * argv[]) {
 
     ifstream fin;
-    fin.open("new_test.txt");
+    fin.open("test.txt");
 
     string inp;
     while (fin >> inp) {
